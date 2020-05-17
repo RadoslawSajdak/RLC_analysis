@@ -1,2 +1,2 @@
-#RLC Analysis
+# RLC Analysis
 Simple Matlab project 
